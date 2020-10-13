@@ -1,4 +1,4 @@
-dcf7dda514bc0f2ad5fe37e77f2246b6 *DESCRIPTION
+7e29f821ea76f28ce9fd84b324fcd23f *DESCRIPTION
 679286214062164310de1f1765fd2370 *NAMESPACE
 7f6e62bc87e8ae36daf8f951cf123cef *R/AntalTille_UPS.R
 07b3064954bebbd6b331d80ce617066b *R/bootstrapFP.R
@@ -8,14 +8,14 @@ ebefb2f106870584efa06d6827297852 *R/direct_SRS.R
 8d0a48dbca4043ffd9475cb0f1da02d2 *R/pseudo_population.R
 d086d56b94a0cc458c32ec9295fd39a6 *R/utils.R
 65d2ccf415e843e4bad881534adfa2f6 *R/weights.R
-072b8af792173d927a6e11eadc30eb61 *README.md
-b82f7d66bda3e66560e59997b271b0de *man/AntalTille2011_ups.Rd
-46f1b66496f82b3e8dc52bade596766e *man/bootstrapFP.Rd
-b9eec4342b755c2f9c09eb1c89bdc5fa *man/bootstrap_weights.Rd
+2a183ca43b11127d967f728caf7f6374 *README.md
+89259ec9f6b6bf0dd703808d8dcd492c *man/AntalTille2011_ups.Rd
+0f8ae6c53e713911fd728dd54b5652a6 *man/bootstrapFP.Rd
+53bd708710432a54d4bf6139cd634dca *man/bootstrap_weights.Rd
 21e45cbb05ee895f6816952e402fd225 *man/define_phi.Rd
 e9b79123a3d771da1afb3bba4c4e23be *man/directBS_srs.Rd
 6a832cc263789dadc900fa544648f28b *man/doubled_half.Rd
-9445fd436bdfa8f73c4542c275856f7e *man/generalised.Rd
+8f2d20b385431f5056dff757980675bf *man/generalised.Rd
 264e921ac1960c8501b10fcb5b6f9f98 *man/is_wholenumber.Rd
 e0fab7c34f5dd17617b03cd030a391fd *man/one_one.Rd
 10708a95f6c0168a8b53e47cdb60fca7 *man/over_replacement.Rd
