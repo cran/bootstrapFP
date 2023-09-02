@@ -5,9 +5,6 @@
 #' 
 #' 
 #' 
-#' @docType package
-#'
-#' @name bootstrapFP
 #' 
 #'
 #'
@@ -18,6 +15,6 @@
 #'
 #' @importFrom stats lm pnorm setNames coef model.matrix residuals
 #'
-#'
-NULL
+#'@aliases bootstrapFP-package NULL
+'_PACKAGE'
 
