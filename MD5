@@ -1,12 +1,12 @@
-dbb530deccefcbe5fda8d39258952624 *DESCRIPTION
-679286214062164310de1f1765fd2370 *NAMESPACE
+3e3d07f60d80ade74ed26c37d464368f *DESCRIPTION
+1511e9c32493218dc6128007f041b8a3 *NAMESPACE
 1169900f6c3df3d5171d455f9807bacd *R/AntalTille_UPS.R
 d2de7b5a963824f623156e3abe629413 *R/bootstrapFP-package.R
 07b3064954bebbd6b331d80ce617066b *R/bootstrapFP.R
 1f4aae6e373c1beb0f52b20e23fb36ec *R/direct_SRS.R
-e7d0645a97909c40cb6a58e2a2340a75 *R/generalised.R
+35e8ad75c15958d8d94186496de02392 *R/generalised.R
 6ff6377dc0d2a30f9d649b8982495cb7 *R/pseudo_population.R
-d086d56b94a0cc458c32ec9295fd39a6 *R/utils.R
+0ac8a380c7c5537c86b87bdb6fc657b4 *R/utils.R
 358b6f0ea073f826b5c74b6f01fa600f *R/weights.R
 b882ec6e59933dc19a73fbffbb4fca21 *README.md
 89259ec9f6b6bf0dd703808d8dcd492c *man/AntalTille2011_ups.Rd
@@ -22,4 +22,4 @@ e0fab7c34f5dd17617b03cd030a391fd *man/one_one.Rd
 10708a95f6c0168a8b53e47cdb60fca7 *man/over_replacement.Rd
 147304019b969b9234ba08297ac343f3 *man/ppBS_srs.Rd
 9533919ee032a0da3c7f9c48671afed3 *man/ppBS_ups.Rd
-2933573320ed2eef2ed8dc6585b8a675 *man/select_Uc.Rd
+16d30c4cbf21e5accb8b4633421c9a63 *man/select_Uc.Rd

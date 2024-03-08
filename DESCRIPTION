@@ -1,8 +1,8 @@
 Package: bootstrapFP
 Type: Package
 Title: Bootstrap Algorithms for Finite Population Inference
-Version: 0.4.5
-Date: 2023-08-26
+Version: 0.4.6
+Date: 2024-03-08
 Authors@R: person("Roberto", "Sichera", email = "rob.sichera@gmail.com", role = c("aut", "cre"))
 Description: Finite Population bootstrap algorithms to estimate the variance
     of the Horvitz-Thompson estimator for single-stage sampling. 
@@ -10,11 +10,11 @@ Description: Finite Population bootstrap algorithms to estimate the variance
 License: GPL-3
 Encoding: UTF-8
 BugReports: https://github.com/rhobis/bootstrapFP/issues
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.1
 Imports: sampling
 NeedsCompilation: no
-Packaged: 2023-09-02 20:11:01 UTC; Roberto
+Packaged: 2024-03-08 22:29:45 UTC; Roberto
 Author: Roberto Sichera [aut, cre]
 Maintainer: Roberto Sichera <rob.sichera@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-09-02 20:30:05 UTC
+Date/Publication: 2024-03-08 23:00:02 UTC
